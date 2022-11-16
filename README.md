@@ -1,2 +1,2 @@
 # consultora
-Proyecto grupal
+Proyecto  Individual 
